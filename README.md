@@ -24,3 +24,10 @@
 
 - Currently, the application assumes you are driving. There are other modes of transportation like biking, public transport, walking, etc. Users could select from a dropdown what option they'd want to take, and if no option is selected, assume they are driving.
 - Similar to the last point, tolls/toll roads are not taken into consideration. Users may not want to pay tolls - a filter could combat this in the future.
+
+## Technologies used:
+
+- React with Typescript
+- [Google Maps API](https://developers.google.com/maps/documentation)
+- [Vite](https://vite.dev/guide/)
+- [TailwindCSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/), and [Lucide](https://lucide.dev/)
